@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CardPackManager
+comment1.params=deck
+comment1.target=CardPackManager(Deck)
+comment2.params=homeScreen\ packType
+comment2.target=boolean\ openCardPack(HomeScreen,\ java.lang.String)
+comment3.params=packType
+comment3.target=int\ getPackCost(java.lang.String)
+comment4.params=
+comment4.target=int\ getBasicPackCost()
+comment5.params=
+comment5.target=int\ getGreatPackCost()
+comment6.params=
+comment6.target=int\ getMightPackCost()
+numComments=7
