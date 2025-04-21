@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HomeScreen
+comment1.params=
+comment1.target=HomeScreen()
+comment2.params=
+comment2.target=void\ showHomeScreen()
+comment3.params=amount
+comment3.target=void\ addCoins(int)
+comment4.params=
+comment4.target=int\ getCoins()
+comment5.params=
+comment5.target=Deck\ getPlayerDeck()
+comment6.params=canBattle
+comment6.target=void\ setCanBattle(boolean)
+comment7.params=
+comment7.target=void\ act()
+numComments=8

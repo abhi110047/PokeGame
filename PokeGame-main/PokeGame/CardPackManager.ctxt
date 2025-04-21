@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CardPackManager
+comment1.params=packType
+comment1.target=int\ getPackCost(java.lang.String)
+comment2.params=
+comment2.target=int\ getBasicPackCost()
+comment3.params=
+comment3.target=int\ getGreatPackCost()
+comment4.params=
+comment4.target=int\ getMightPackCost()
+numComments=5
