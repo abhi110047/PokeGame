@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CardPacks
+comment1.params=
+comment1.target=CardPacks()
+comment2.params=packType
+comment2.target=java.util.List\ openPack(java.lang.String)
+numComments=3

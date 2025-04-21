@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EnergyCard
+comment1.params=name\ description
+comment1.target=EnergyCard(java.lang.String,\ java.lang.String)
+numComments=2
