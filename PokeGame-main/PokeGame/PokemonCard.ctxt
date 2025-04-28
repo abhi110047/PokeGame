@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=PokemonCard
-comment1.params=name\ description\ health\ attack
-comment1.target=PokemonCard(java.lang.String,\ java.lang.String,\ int,\ int)
-comment2.params=
-comment2.target=int\ getHealth()
-comment3.params=
-comment3.target=int\ getAttackPower()
-numComments=4
