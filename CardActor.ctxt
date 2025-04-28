@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CardActor
+comment1.params=card\ x\ y
+comment1.target=CardActor(Card,\ int,\ int)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=Card\ getCard()
+comment4.params=faceUp
+comment4.target=void\ setFaceUp(boolean)
+comment5.params=
+comment5.target=boolean\ isFaceUp()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
