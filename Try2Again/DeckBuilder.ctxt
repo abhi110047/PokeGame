@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DeckBuilder
+comment1.params=
+comment1.target=Deck\ createStarterDeck()
+comment1.text=\r\n\ Creates\ a\ sample\ starter\ deck\ with\ the\ 5\ sample\ Pok\u00E9mon\ cards\r\n
+comment2.params=
+comment2.target=PokemonCard\ createLardiasLardios()
+comment2.text=\r\n\ Creates\ a\ LardiosLardias\ card\r\n
+comment3.params=
+comment3.target=PokemonCard\ createNigamath()
+comment3.text=\r\n\ Creates\ a\ Nigamath\ card\r\n
+comment4.params=
+comment4.target=PokemonCard\ createSuhasStroll()
+comment4.text=\r\n\ Creates\ a\ SuhasStroll\ card\r\n
+comment5.params=
+comment5.target=PokemonCard\ createCrusader()
+comment5.text=\r\n\ Creates\ a\ Crusader\ card\r\n
+comment6.params=
+comment6.target=PokemonCard\ createVedanth()
+comment6.text=\r\n\ Creates\ a\ Vedanth\ card\r\n
+numComments=7
