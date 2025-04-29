@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComputerPlayer
+comment0.text=\r\n\ Class\ representing\ a\ computer-controlled\ player\r\n
+comment1.params=name
+comment1.target=ComputerPlayer(java.lang.String)
+comment2.params=
+comment2.target=void\ playPokemonFromHand()
+comment3.params=
+comment3.target=void\ attachEnergyFromHand()
+numComments=4
