@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=DeckBuilder
-comment1.params=
-comment1.target=Deck\ createStarterDeck()
-comment1.text=\r\n\ Creates\ a\ sample\ starter\ deck\ with\ the\ 5\ sample\ Pok\u00E9mon\ cards\r\n
-numComments=2
