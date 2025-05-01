@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Base\ class\ for\ all\ cards\ in\ the\ game\r\n
+comment1.params=name\ type
+comment1.target=Card(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

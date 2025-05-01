@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Class\ representing\ a\ player\ in\ the\ game\r\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment10.params=opponent\ attackNumber
+comment10.target=void\ performAttack(Player,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.util.List\ getHand()
+comment4.params=card
+comment4.target=void\ addCardToHand(Card)
+comment5.params=
+comment5.target=java.util.List\ getAttachedEnergy()
+comment6.params=energy
+comment6.target=void\ attachEnergy(EnergyCard)
+comment7.params=
+comment7.target=int\ getTotalEnergy()
+comment8.params=
+comment8.target=boolean\ hasActivePokemon()
+comment9.params=
+comment9.target=boolean\ canAttack()
+numComments=11
